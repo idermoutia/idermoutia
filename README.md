@@ -8,4 +8,6 @@
   <br>
   <a href="https://www.linkedin.com/in/idermoutia/"><img src="https://img.shields.io/badge/LinkedIn-idermoutia-eeeeee?style=for-the-badge&amp;labelColor=022f60" alt="LinkedIn"></a>
   <a href="https://orcid.org/0009-0002-8940-7693"><img src="https://img.shields.io/badge/ORCID-0009--0002--8940--7693-eeeeee?style=for-the-badge&amp;labelColor=022f60" alt="ORCID"></a>
+  <br><br>
+  <a href="https://svs.gsfc.nasa.gov/12688/"><img src="https://svs.gsfc.nasa.gov/vis/a010000/a012600/a012688/SDO_171_Transit.gif" alt="The Moon crossing the Sun in 171 Angstrom extreme ultraviolet light, observed by NASA's Solar Dynamics Observatory" width="280"></a>
 </div>
