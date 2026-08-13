@@ -9,5 +9,5 @@
   <a href="https://www.linkedin.com/in/idermoutia/"><img src="https://img.shields.io/badge/LinkedIn-idermoutia-eeeeee?style=for-the-badge&amp;labelColor=022f60" alt="LinkedIn"></a>
   <a href="https://orcid.org/0009-0002-8940-7693"><img src="https://img.shields.io/badge/ORCID-0009--0002--8940--7693-eeeeee?style=for-the-badge&amp;labelColor=022f60" alt="ORCID"></a>
   <br><br>
-  <a href="https://svs.gsfc.nasa.gov/12706/"><img src="https://svs.gsfc.nasa.gov/vis/a010000/a012700/a012706/SDO_171_CU_1041.gif" alt="Solar flares observed in 171 Angstrom extreme ultraviolet light by NASA's Solar Dynamics Observatory" width="100%"></a>
+  <a href="https://svs.gsfc.nasa.gov/12329/"><img src="https://svs.gsfc.nasa.gov/vis/a010000/a012300/a012329/data2.gif" alt="Solar wind observed by NASA's STEREO spacecraft" width="100%"></a>
 </div>
