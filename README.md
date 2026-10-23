@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://svs.gsfc.nasa.gov/12706/"><img src="assets/solar-flare-band.gif" alt="IDER MOUTIA over blue-toned NASA Solar Dynamics Observatory flare footage" width="100%"></a>
+  <a href="https://svs.gsfc.nasa.gov/12706/"><img src="assets/solar-flare-band.webp" alt="IDER MOUTIA over blue-toned NASA Solar Dynamics Observatory flare footage" width="100%"></a>
   <br><br>
   I build scientific software for solar physics and full-stack systems.
   <br><br>
